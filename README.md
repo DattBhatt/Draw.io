@@ -2,7 +2,7 @@
 
 
 
-This repository is used to \*\*save and store diagrams created with \[draw.io / diagrams.net](https://www.diagrams.net/)\*\* in a clean and organized format. It acts as a central place to keep versions of diagrams for documentation, workflows, and visual designs.  
+This repository is used to **save and store diagrams created with [draw.io / diagrams.net](https://www.diagrams.net/)** in a clean and organized format. It acts as a central place to keep versions of diagrams for documentation, workflows, and visual designs.  
 
 
 
@@ -13,13 +13,9 @@ This repository is used to \*\*save and store diagrams created with \[draw.io / 
 ## 🚀 Features  
 
 - Stores `.drawio` files in version control.  
-
-- Ensures diagrams are saved in a \*\*readable, editable, and trackable format\*\*.  
-
-- Easy to export diagrams into \*\*PNG, SVG, or PDF\*\* when needed.  
-
-- Keeps project documentation \*\*visual and structured\*\*.  
-
+- Ensures diagrams are saved in a **readable, editable, and trackable format**.  
+- Easy to export diagrams into **PNG, SVG, or PDF** when needed.  
+- Keeps project documentation **visual and structured**.  
 
 
 ---
@@ -31,17 +27,13 @@ This repository is used to \*\*save and store diagrams created with \[draw.io / 
 Diagrams
 
 ├── project1.drawio
-
 ├── project2.drawio
-
 └── ...
 
 Exports
 
 ├── project1.png
-
 ├── project2.svg
-
 └── ...
 
 Extras
@@ -52,11 +44,9 @@ README.md
 
 
 
+- **`/diagrams/`** → contains the original `.drawio` source files.  
 
-
-- \*\*`/diagrams/`\*\* → contains the original `.drawio` source files.  
-
-- \*\*`/exports/`\*\* → optional directory for exported formats (PNG/SVG/PDF).  
+- **`/exports/`** → optional directory for exported formats (PNG/SVG/PDF).  
 
 
 
@@ -68,7 +58,7 @@ README.md
 
 
 
-1. Open any `.drawio` file using \[draw.io](https://app.diagrams.net/) (online) or the desktop app.  
+1. Open any `.drawio` file using [draw.io](https://app.diagrams.net/) (online) or the desktop app.  
 
 2. Edit or update the diagram.  
 
@@ -86,7 +76,7 @@ README.md
 
 - Always commit `.drawio` files to keep diagrams editable.  
 
-- If exporting diagrams, keep exports \*\*separate from source files\*\*.  
+- If exporting diagrams, keep exports **separate from source files**.  
 
 - Use meaningful filenames (e.g., `system-architecture.drawio`, `workflow-v2.drawio`).  
 
@@ -98,9 +88,9 @@ README.md
 
 ## 📖 References  
 
-- \[Draw.io Documentation](https://www.diagrams.net/doc/)  
+- [Draw.io Documentation](https://www.diagrams.net/doc/)  
 
-- \[GitHub + Draw.io Best Practices](https://github.com/jgraph/drawio-desktop)  
+- [GitHub + Draw.io Best Practices](https://github.com/jgraph/drawio-desktop)  
 
 
 
