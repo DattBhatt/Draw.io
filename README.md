@@ -27,13 +27,17 @@ This repository is used to **save and store diagrams created with [draw.io / dia
 Diagrams
 
 ├── project1.drawio
+
 ├── project2.drawio
+
 └── ...
 
 Exports
 
 ├── project1.png
+
 ├── project2.svg
+
 └── ...
 
 Extras
