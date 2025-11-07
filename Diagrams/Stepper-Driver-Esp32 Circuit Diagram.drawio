@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="28.2.9">
   <diagram name="Page-1" id="NISjGBsvbTp_gRpJttBt">
-    <mxGraphModel dx="343" dy="-16" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1169" dy="410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1013,7 +1013,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rhNEVkNqoi0_ScWGIB1F-96" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="550" y="1044.04" width="220" height="125.94000000000005" as="geometry" />
+          <mxGeometry x="600" y="1045.06" width="220" height="125.94000000000005" as="geometry" />
         </mxCell>
         <mxCell id="rqgMfOlDbwQ9i6LX4Ijk-320" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp;POWER SUPPLY&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; 5V DC 2.0 A&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;align=left;points=[[1,0.12,0,0,0],[1,0.32,0,0,0]];" parent="rhNEVkNqoi0_ScWGIB1F-96" vertex="1">
           <mxGeometry width="210" height="125.94" as="geometry" />
