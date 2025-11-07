@@ -10,8 +10,8 @@
         <mxCell id="rhNEVkNqoi0_ScWGIB1F-173" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;glass=0;shadow=0;fillStyle=auto;gradientColor=none;fillOpacity=100;strokeOpacity=100;" vertex="1" parent="rhNEVkNqoi0_ScWGIB1F-172">
           <mxGeometry width="110" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="rhNEVkNqoi0_ScWGIB1F-174" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Emergency Stop&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="rhNEVkNqoi0_ScWGIB1F-172">
-          <mxGeometry x="27.2341666666667" width="55.5225" height="10.001111234581618" as="geometry" />
+        <mxCell id="rhNEVkNqoi0_ScWGIB1F-179" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Emergency Stop&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="rhNEVkNqoi0_ScWGIB1F-172">
+          <mxGeometry x="8" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rhNEVkNqoi0_ScWGIB1F-136" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1470" y="1010" width="120" height="200" as="geometry" />
