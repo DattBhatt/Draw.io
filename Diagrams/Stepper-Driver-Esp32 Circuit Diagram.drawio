@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="29.1.1">
   <diagram name="Page-1" id="NISjGBsvbTp_gRpJttBt">
-    <mxGraphModel dx="-210" dy="-302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1953" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1222,9 +1222,6 @@
         <mxCell id="TVQF5yguMmzalGejt9tO-11" parent="TVQF5yguMmzalGejt9tO-13" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="&lt;pre&gt;&lt;span style=&quot;font-size: 12px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;HMI - TouchScreen&lt;/span&gt;&lt;/pre&gt;" vertex="1">
           <mxGeometry height="20.92658257280707" width="150" x="12.5" y="159.0734174271929" as="geometry" />
         </mxCell>
-        <mxCell id="TVQF5yguMmzalGejt9tO-16" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Bootstrap_Vol_3-2297/hdmi-916.svg" value="" vertex="1">
-          <mxGeometry height="40" width="40" x="1770" y="690" as="geometry" />
-        </mxCell>
         <mxCell id="TVQF5yguMmzalGejt9tO-19" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="24.99658257280703" width="155" x="1607.5" y="977.503417427193" as="geometry" />
         </mxCell>
@@ -1241,6 +1238,15 @@
           <mxGeometry height="40" width="40" x="5" y="10" as="geometry" />
         </mxCell>
         <mxCell id="TVQF5yguMmzalGejt9tO-20" parent="TVQF5yguMmzalGejt9tO-21" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="&lt;pre&gt;&lt;span style=&quot;font-size: 12px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;HDMI&lt;/span&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="20.93" width="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TVQF5yguMmzalGejt9tO-22" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="1760" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="TVQF5yguMmzalGejt9tO-23" parent="TVQF5yguMmzalGejt9tO-22" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Bootstrap_Vol_3-2297/hdmi-916.svg" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="5" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="TVQF5yguMmzalGejt9tO-24" parent="TVQF5yguMmzalGejt9tO-22" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="&lt;pre&gt;&lt;span style=&quot;font-size: 12px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;HDMI&lt;/span&gt;&lt;/pre&gt;" vertex="1">
           <mxGeometry height="20.93" width="50" as="geometry" />
         </mxCell>
       </root>
