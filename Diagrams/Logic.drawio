@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="28.2.9">
   <diagram name="Page-1" id="7qIw8RetSFmpH7_gQq80">
-    <mxGraphModel dx="1765" dy="911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="974" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -77,13 +77,13 @@
           <mxGeometry x="220" y="420" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l4WehYbCr_AdAFuDqgPo-11" value="Command Transmission (Serial UART) to ESP32" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2086" y="366" width="70" height="90" as="geometry" />
+          <mxGeometry x="2090" y="360" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="l4WehYbCr_AdAFuDqgPo-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.999;entryY=0.524;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="l4WehYbCr_AdAFuDqgPo-23" target="l4WehYbCr_AdAFuDqgPo-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l4WehYbCr_AdAFuDqgPo-31" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1979" y="471" width="200" height="210" as="geometry" />
+          <mxGeometry x="1979" y="435" width="200" height="210" as="geometry" />
         </mxCell>
         <mxCell id="l4WehYbCr_AdAFuDqgPo-23" value="&lt;div&gt;&lt;b&gt;ESP - 32&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="l4WehYbCr_AdAFuDqgPo-31">
           <mxGeometry width="200" height="210" as="geometry" />
@@ -128,7 +128,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l4WehYbCr_AdAFuDqgPo-37" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1329" y="466" width="200" height="210" as="geometry" />
+          <mxGeometry x="1329" y="430" width="200" height="210" as="geometry" />
         </mxCell>
         <mxCell id="l4WehYbCr_AdAFuDqgPo-21" value="&lt;b&gt;SHAKE TABLE&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="l4WehYbCr_AdAFuDqgPo-37">
           <mxGeometry width="200" height="210" as="geometry" />
@@ -137,7 +137,7 @@
           <mxGeometry x="30" y="55" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="l4WehYbCr_AdAFuDqgPo-38" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1569" y="466" width="371" height="210" as="geometry" />
+          <mxGeometry x="1569" y="430" width="371" height="210" as="geometry" />
         </mxCell>
         <mxCell id="l4WehYbCr_AdAFuDqgPo-22" value="&lt;div&gt;&lt;b&gt;STEPPER &amp;amp; DRIVER&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="l4WehYbCr_AdAFuDqgPo-38">
           <mxGeometry width="371" height="210" as="geometry" />
@@ -154,8 +154,8 @@
         <mxCell id="l4WehYbCr_AdAFuDqgPo-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="l4WehYbCr_AdAFuDqgPo-38" source="l4WehYbCr_AdAFuDqgPo-13" target="l4WehYbCr_AdAFuDqgPo-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l4WehYbCr_AdAFuDqgPo-40" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;(Motion Verification + Feedback)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="l4WehYbCr_AdAFuDqgPo-38">
-          <mxGeometry x="100" y="160" width="210" height="40" as="geometry" />
+        <mxCell id="l4WehYbCr_AdAFuDqgPo-40" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;(Motion Verification + Feedback)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" vertex="1" parent="l4WehYbCr_AdAFuDqgPo-38">
+          <mxGeometry x="80" y="160" width="210" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
